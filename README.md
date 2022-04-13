@@ -27,4 +27,4 @@ arg3: file extension (exclude the dot)
 
 cd Downloads
 
-sudo mv renametool /bin/
+sudo cp renametool /bin/
