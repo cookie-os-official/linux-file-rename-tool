@@ -30,4 +30,4 @@ cd Downloads
 sudo cp renametool /bin/
 
 
-#### Or download the autoinstaller.sh file
+#### Or download the auto-installer.sh file
