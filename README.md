@@ -19,3 +19,12 @@ arg1: file to rename
 arg2: name to give the file
 
 arg3: file extension (exclude the dot)
+
+
+
+
+# How To Install
+
+cd Downloads
+
+sudo mv renametool /bin/
