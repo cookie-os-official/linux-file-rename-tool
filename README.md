@@ -28,3 +28,6 @@ arg3: file extension (exclude the dot)
 cd Downloads
 
 sudo cp renametool /bin/
+
+
+#### Or download the autoinstaller.sh file
