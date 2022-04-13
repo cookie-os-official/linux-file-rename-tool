@@ -11,7 +11,7 @@ Linux (Most distros should work)
 Python Packages (pip3 install fire)
 
 
-Usage:
+### Usage:
 
 
 arg1: file to rename
