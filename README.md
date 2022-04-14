@@ -50,7 +50,7 @@ Go to properties in the renametool file after downloading
 Change permissions to Read And Write
 
 
-Change Allow executing as application to true
+Change Allow executing as an application to true
 
 
 Open the terminal to the directory that the renametool file is in
