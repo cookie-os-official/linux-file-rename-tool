@@ -37,7 +37,9 @@ sudo cp renametool /bin/
 
 # Downloading through the terminal
 
-To download the renametool file through the terminal, type this command: wget https<area>://raw<area>.githubusercontent<area>.com/cookie-os-official/linux-file-rename-tool<area>/main/renametool
+To download the renametool file through the terminal, type this command:
+
+wget https<area>://raw<area>.githubusercontent<area>.com/cookie-os-official/linux-file-rename-tool<area>/main/renametool
 
 
 # Current Way Of Installing
