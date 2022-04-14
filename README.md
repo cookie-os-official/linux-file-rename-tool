@@ -31,3 +31,8 @@ sudo cp renametool /bin/
 
 
 #### Or download the auto-installer.sh file
+
+
+# THE auto-installer.sh FILE IS NOT WORKING RIGHT NOW, PLEASE TO NOT DOWNLOAD IT!
+
+
